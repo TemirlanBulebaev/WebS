@@ -1,0 +1,11 @@
+div {
+    background-color: blueviolet;
+    width: 400px;
+    height: 400px;
+}
+.box-1  {     /* приоритет работы с классами выше чем с тегами */
+    background-color: royalblue;
+}
+.text-1 { /* Обращние по селектору класса */
+    font-size: 50px;
+}
